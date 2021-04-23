@@ -111,6 +111,27 @@ code {
               color: cornflowerblue;
               cursor: pointer;
           }
+         .iconEmail:hover{
+            background-color: cornflowerblue;
+          }
+          .iconGit:hover{
+            background-color: cornflowerblue;
+          }
+          .iconInsta:hover{
+            background-color: cornflowerblue;
+          }
+          .iconLink:hover{
+            background-color: cornflowerblue;
+          }
+          .iconTwitter:hover{
+            background-color: cornflowerblue;
+          }
+          .iconVector:hover{
+            background-color: cornflowerblue;
+          }
+          
+          
+          
           .iconGit{
               width:26.02px;
               height: 28.06px;
@@ -250,8 +271,8 @@ code {
           }
          .icons{
               position: absolute;
-              top: 670px;
-              left: 20%;
+              top: 580px;
+              left: 10%;
               display: flex;      
               align-items: center;  
   
